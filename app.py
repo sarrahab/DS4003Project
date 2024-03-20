@@ -47,7 +47,7 @@ from dash import Dash, dcc, html, Input, Output
 
 # %%
 #read in the dataset and then see first five rows of the dataframe df
-df = pd.read_csv('C:/Users/Student/Downloads/gdp_pcap.csv')
+df = pd.read_csv('gdp_pcap.csv')
 df.head()
 
 # %%
