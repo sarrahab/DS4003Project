@@ -1,4 +1,4 @@
-dash==2.9.3
+dash==2.14.2
 datetime
 pandas
 plotly
